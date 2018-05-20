@@ -1,1 +1,1 @@
-var playList = {'Kalid': 'Location',}
+var playlist = {'Kalid': 'Location'}
