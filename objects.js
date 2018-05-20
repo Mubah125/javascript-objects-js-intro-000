@@ -1,6 +1,6 @@
 var playlist = {'Kalid': 'Location'};
 
-function updatePlaylist(list, name, song){
+function updatePlaylist(playlist, name, song){
 
 return Object.assign({}, list, { [name]: song })
 
