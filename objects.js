@@ -1,4 +1,4 @@
-var playlist = {'Kalid': 'Location'};
+var playlist = {'Slowdive': 'Alison'};
 
 function updatePlaylist(playlist, name, song){
 
